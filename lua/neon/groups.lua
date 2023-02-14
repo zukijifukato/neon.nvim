@@ -1,4 +1,4 @@
-local colors = require("palette")
+local colors = require("neon.palette")
 
 local groups = {
   Normal = { bg = colors.black, fg = colors.white },

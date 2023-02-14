@@ -1,4 +1,4 @@
-local groups = require("groups")
+local groups = require("neon.groups")
 
 if vim.g.colors_name then
   vim.cmd("highlight clear")
